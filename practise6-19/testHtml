@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>test page</title>
+</head>
+<body>
+    <ul>
+        <li>this is my test page</li>
+        <li>This file has no postfix</li>
+        <li>http test</li>
+    </ul>
+</body>
+</html>
