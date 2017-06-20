@@ -6,7 +6,7 @@
             "name": "Run hello.js",
             "type": "node",
             "request": "launch",
-            "program": "${workspaceRoot}/practise6-9/streamWriteTest.js",
+            "program": "${workspaceRoot}/practise6-20/server.js",
             "stopOnEntry": false,
             "args": [],
             "cwd": "${workspaceRoot}",
